@@ -80,12 +80,12 @@ a{
 .section-1 a:hover{
     color: #fff;
     cursor: pointer;
-    transition: 0.3s;
+    transition: 0.0s;
 }
 
 .white:hover{
     position: relative;
-    padding-left: 10px;
+    padding-left: 100px;
 }
 
 /* media queres */
