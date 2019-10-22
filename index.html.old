@@ -28,13 +28,6 @@
 
 <body onLoad="load()" onUnload="GUnload()">
 
-<!-- website redirection confirmation -->
-<script>
-	if (confirm("This website is stopped being updated but kept only for memory. Go to my new personal website?")) {
-    	window.location = "https://xuejennifer.com";
-  	} else {}
-</script>
-
 <!-- Preloader -->
 <div id="preloader">
     <div id="status"></div>
