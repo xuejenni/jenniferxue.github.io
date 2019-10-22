@@ -25,8 +25,8 @@ a{
 }
 /* section 1 */
 .section-1{
-    padding-top: 40vh;
-    padding-left: 30vw;
+    padding-top: 20vh;
+    padding-left: 10vw;
     text-align: center;
 }
 
@@ -67,7 +67,7 @@ a{
     padding: 5px;
     font-size: 1.2rem;
     padding-left: 0;
-    width: 100px;
+    width: 50px;
 }
 /* animations / utilities */
 .section-2 a:hover{
@@ -89,7 +89,7 @@ a{
 }
 
 /* media queres */
-@media(max-width:780px){
+@media(max-width:680px){
     .grid-2{
         grid-template-columns: 1fr;
     }
