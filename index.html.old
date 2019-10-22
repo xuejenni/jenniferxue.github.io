@@ -61,8 +61,6 @@
                       <ul class="nav navbar-nav">
                         <li class="menuItem active"><a href="#wrapper">Home</a></li>
                         <li class="menuItem"><a href="#aboutus">About Me</a></li>
-                        <li class="menuItem"><a href="http://www.jianshu.com/u/97ea3334c205">Blog</a></li>
-                        <li class="menuItem"><a href="myfootprint.html">Footprint</a></li>
                         <li class="menuItem"><a href="#experience">Experiences</a></li>
                         <li class="menuItem"><a href="#education">Education</a></li>
                         <li class="menuItem"><a href="#contact">Contact</a></li>
@@ -123,7 +121,7 @@
       <p>I have broad interest in systems and networks. I worked in WiNGS Lab at UW-Madison. My supervisor is <a href="http://pages.cs.wisc.edu/~suman/" class="people" style="color: #5b4c5c;">Prof. Suman Banerjee</a>. I also worked with <a href="http://i.cs.hku.hk/~heming" class="people" style="color: #5b4c5c;">Dr. Heming Cui</a> on systems and networking in the Department of Computer Science. Scroll down to see projects done in this field. Welcome to contact me and discuss any interesting topics with me!</p>
           <p>
         <a role="button" class="btn btn-primary btn-lg" href="resume/CV_QiuHaoran.pdf">Download Printable CV</a> &nbsp;&nbsp;
-            <a class="btn btn-primary btn-lg" href="https://github.com/James-QiuHaoran">Github</a>
+            <a class="btn btn-primary btn-lg" href="https://github.com/xuejennifer">Github</a>
                   &nbsp;&nbsp;
             <a class="btn btn-primary btn-lg" href="http://www.jianshu.com/u/97ea3334c205">My Blog</a>
           </p>
@@ -132,6 +130,7 @@
     </div>    
   </section>
   <!--about us end--> 
+  
   <!--Work Experties start -->
   <section id="experience" class="myexperties">
     <div class="container">
@@ -193,6 +192,7 @@
     </div>
   </section>
   <!--Work Experties end -->
+  
   <!--Education & diploma start -->
   <section id="education" class="educationdiploma">
     <div class="container">
@@ -204,14 +204,14 @@
         <div class="row media wow flipInX bg-purple">
             <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
                 <div class="expertiesico">
-                    September, 2015<br>Till Now
+                    September 2016<br>to Present
                 </div>
             </div>
             <div class="expertiesdesc col-xs-12 col-sm-9 col-md-9 col-lg-9">
-                <h4>Bachelor of Engineering</h4>
-                <h5>The University of Hong Kong, HK</h5>
-                <p>Major in <strong>Computer Science</strong>, GPA: 4.0/4.3<br>
-                   Minor in <strong>Mathematics</strong><br>
+                <h4>Candidate, Honors Bachelor of Science (2020)</h4>
+                <h5>University of Toronto, Scarborough</h5>
+                <p>Specialist in <strong> Psychology</strong>, (cognitive neuroscience)<br>
+                   Minor in <strong>Economics</strong><br>
                     Related Courses: Data Structure and Algorithms, Discrete Mathematics, Computer Organization, Programming Tools and Techniques, Functional Programming, Object Oriented Programming (<b>Teaching Assistant</b> of this course), Distributed Computing and System Design, Operating Systems, Database Management and Design, Artificial Intelligence, Computer Networks;
                 </p>
             </div>
@@ -252,10 +252,10 @@
       <div class="heading">
         <h2>Get In Touch</h2>
         <!--<h3>Pok Fu Lam Rd #109, Hong Kong &nbsp;&nbsp;&nbsp;
-            <img src="images/Gmail.jpg" alt=""> e-Mail: jamesqiu@hku.hk &nbsp;&nbsp;&nbsp;
+            <img src="images/Gmail.jpg" alt=""> e-Mail: jennifer.q.xue@gmail.com &nbsp;&nbsp;&nbsp;
             <img src="images/Phone.jpg" alt=""> Phone: (+852)54944498</h3>-->
             <h3><i class="fa fa-home"></i>Latitude, 608E UNIVERSITY AVE, CHAMPAIGN, IL 61820</h3>
-            <h3><i class="fa fa-envelope"></i> jamesqiu@connect.hku.hk / james.haoran.qiu@gmail.com</h3>
+            <h3><i class="fa fa-envelope"></i> jennifer.q.xue@gmail.com</h3>
             <h3><i class="fa fa-phone"></i> +(001)86 13869860830</h3>
       </div>
     </div>
@@ -265,11 +265,9 @@
   <section class="footer" id="footer">
     <div class="container">
       <ul>
-        <li><a href="https://github.com/James-QiuHaoran"><i class="fa fa-github fa-2x"></i></a></li>
-        <li><a href="https://www.facebook.com/haoran.qiu.10"><i class="fa fa-facebook fa-2x"></i></a></li>
-        <li><a href="https://www.linkedin.com/in/jamesqhr/"><i class="fa fa-linkedin fa-2x"></i></a></li>
-        <li><a href="http://weibo.com/6094909021/info"><i class="fa fa-weibo fa-2x"></i></a></li>
-        <li><a href="https://twitter.com/Jamessss_Qiu"><i class="fa fa-twitter fa-2x"></i></a></li>
+        <li><a href="https://github.com/xuejennifer"><i class="fa fa-github fa-2x"></i></a></li>
+        <li><a href="https://www.facebook.com/jenniferxue19"><i class="fa fa-facebook fa-2x"></i></a></li>
+        <li><a href="https://www.linkedin.com/in/jennifer-xue/"><i class="fa fa-linkedin fa-2x"></i></a></li>
       </ul>
       <div align="center">You are the <a href="http://www.cutercounter.com/" target="_blank"><img src="http://www.cutercounter.com/hit.php?id=geaoafa&nd=6&style=66" border="0" alt="hit counter"></a>-th visitor!</div>
       <br/>
